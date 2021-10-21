@@ -5,6 +5,7 @@ English | [简体中文](./README.zh-CN.md)
   <br>A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, <br>the key to ultimately <i>Live in Emacs</i>
 </p>
 
+# EAF
 ## Vision
 Emacs, the extensible *text editor*, is more than 45 years old. It is older than virtually all operating systems people use today, almost as old as the first UNIX system. During the decades of development, the world's brightest hackers have contributed their intelligence and creativity, together they've constructed the most comprehensive and richest ecosystem that you can find in any software to date.
 
